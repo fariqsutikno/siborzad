@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DataSiswaController;
 use App\Http\Controllers\EditingRequestsController;
+use App\Http\Controllers\ClassAdministrationController;
 
 /*
 |--------------------------------------------------------------------------
